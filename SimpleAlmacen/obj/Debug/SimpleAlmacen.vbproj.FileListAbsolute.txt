@@ -1,0 +1,12 @@
+c:\users\hdbow\documents\visual studio 2015\Projects\SimpleAlmacen\SimpleAlmacen\bin\Debug\SimpleAlmacen.exe.config
+c:\users\hdbow\documents\visual studio 2015\Projects\SimpleAlmacen\SimpleAlmacen\bin\Debug\SimpleAlmacen.exe
+c:\users\hdbow\documents\visual studio 2015\Projects\SimpleAlmacen\SimpleAlmacen\bin\Debug\SimpleAlmacen.pdb
+c:\users\hdbow\documents\visual studio 2015\Projects\SimpleAlmacen\SimpleAlmacen\bin\Debug\SimpleAlmacen.xml
+c:\users\hdbow\documents\visual studio 2015\Projects\SimpleAlmacen\SimpleAlmacen\obj\Debug\SimpleAlmacen.FrmLogin.resources
+c:\users\hdbow\documents\visual studio 2015\Projects\SimpleAlmacen\SimpleAlmacen\obj\Debug\SimpleAlmacen.FrmUsuarios.resources
+c:\users\hdbow\documents\visual studio 2015\Projects\SimpleAlmacen\SimpleAlmacen\obj\Debug\SimpleAlmacen.FrmApp.resources
+c:\users\hdbow\documents\visual studio 2015\Projects\SimpleAlmacen\SimpleAlmacen\obj\Debug\SimpleAlmacen.Resources.resources
+c:\users\hdbow\documents\visual studio 2015\Projects\SimpleAlmacen\SimpleAlmacen\obj\Debug\SimpleAlmacen.vbproj.GenerateResource.Cache
+c:\users\hdbow\documents\visual studio 2015\Projects\SimpleAlmacen\SimpleAlmacen\obj\Debug\SimpleAlmacen.exe
+c:\users\hdbow\documents\visual studio 2015\Projects\SimpleAlmacen\SimpleAlmacen\obj\Debug\SimpleAlmacen.xml
+c:\users\hdbow\documents\visual studio 2015\Projects\SimpleAlmacen\SimpleAlmacen\obj\Debug\SimpleAlmacen.pdb
